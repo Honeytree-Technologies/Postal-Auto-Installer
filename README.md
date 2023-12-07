@@ -33,7 +33,7 @@ The Bash file is unencrypted, freely usable, and redistributable (though credit 
     You can also use own directory.
 3. Run the following command to start the script.
     ```bash
-    curl -lO https://code.honeytreetech.com/fediverse/postal/auto-installer/auto_script.sh && sudo chmod +x auto_script.sh && ./auto_script.sh
+    curl -lO https://code.honeytreetech.com/utilities/postal/postal_auto_script.sh && sudo chmod +x postal_auto_script.sh && ./postal_auto_script.sh
     ```
 4. Input the requested details as per the following table.
     | Name | Description | Mandatory | Optional | Default Value | 
