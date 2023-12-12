@@ -1542,5 +1542,5 @@ sudo systemctl restart fail2ban
 echo "Congratulations your setup is done"
 echo "Your mariadb password is ${mariadb_root_password}"
 echo "Your rabbitmq password is ${rabbitmq_password}"
-echo "The Superdesk instance can be accessed on https://${domain_name}"
+echo "The Postal instance can be accessed on https://${domain_name}"
 echo "Now SSH port is ${ssh_port}"
